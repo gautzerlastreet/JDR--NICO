@@ -1,0 +1,11 @@
+# Systèmes
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Streamlit\ n.streamlit/
+
+# Logs
+*.log
