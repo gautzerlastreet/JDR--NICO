@@ -5,7 +5,8 @@
 __pycache__/
 *.py[cod]
 
-# Streamlit\ n.streamlit/
+# Streamlit
+.streamlit/
 
 # Logs
 *.log
